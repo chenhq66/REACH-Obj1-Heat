@@ -159,8 +159,5 @@ write.csv(nation_data_yr,paste0("nation_Temp_data","_yr",".csv"),row.names = FAL
   write.csv(grid_data_d,paste0("grid_Temp_data","_d",".csv"),row.names = FALSE)
   write.csv(city_data_d,paste0("city_Temp_data","_d",".csv"),row.names = FALSE)
   write.csv(nation_data_d,paste0("nation_Temp_data","_d",".csv"),row.names = FALSE)
-  
-  
-  
-  
+    
 }
